@@ -236,6 +236,7 @@ Write up success metrics and a measurement plan:
 - Adoption (training, migration, new opportunities, CSAT)
 
 Finalize the decision matrix
+
 Here's an example, we'll each adjust weights for our specific institutions:
 |Criterion             |Weight|Scoring Approach      |
 |----------------------|------|----------------------|
